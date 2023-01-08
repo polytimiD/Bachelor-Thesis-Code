@@ -1,7 +1,7 @@
 # Bachelor-Thesis-Code
 
 For my bachelor thesis, I analyzed the medical data of 70 individuals.
-In particular, my task was to study the patterns in concentration measurements of 16 proteins, taken from 70 subjects that had undergone silicon implant surgery, and in accordance, to cluster the population of the sample.
+In particular, my task was to study the patterns in concentration measurements of 16 proteins, taken from 70 subjects that had undergone silicon implant surgery, and to cluster the population of the sample accordingly.
 
 For the determination of the clusters, an algorithm was designed and implemented in C/C++ programming language (Bachelor_Thesis.cpp).
 No prior classification scheme was given, and thus, for this unsupervised learning task, Euclidean distance was used as a metric to create the distance matrices and subsequently, to determine the groups of individuals.
